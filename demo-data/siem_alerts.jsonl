@@ -1,0 +1,500 @@
+{"id": "ALERT-0001", "type": "brute_force", "severity": "low", "source_ip": "203.0.190.71", "hostname": "srv-16", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1566"}
+{"id": "ALERT-0002", "type": "brute_force", "severity": "low", "source_ip": "203.0.152.109", "hostname": "srv-03", "description": "Multiple failed authentication attempts detected.", "mitre": "T1110"}
+{"id": "ALERT-0003", "type": "malware", "severity": "medium", "source_ip": "203.0.130.155", "hostname": "srv-02", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0004", "type": "malware", "severity": "critical", "source_ip": "203.0.151.72", "hostname": "srv-01", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0005", "type": "phishing", "severity": "high", "source_ip": "203.0.40.56", "hostname": "srv-49", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0006", "type": "brute_force", "severity": "critical", "source_ip": "203.0.25.92", "hostname": "srv-23", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0007", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.250.237", "hostname": "srv-25", "description": "Multiple failed authentication attempts detected.", "mitre": "T1021"}
+{"id": "ALERT-0008", "type": "data_exfil", "severity": "high", "source_ip": "203.0.148.50", "hostname": "srv-46", "description": "Multiple failed authentication attempts detected.", "mitre": "T1110"}
+{"id": "ALERT-0009", "type": "malware", "severity": "high", "source_ip": "203.0.253.21", "hostname": "srv-15", "description": "Multiple failed authentication attempts detected.", "mitre": "T1048"}
+{"id": "ALERT-0010", "type": "phishing", "severity": "critical", "source_ip": "203.0.163.214", "hostname": "srv-24", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1021"}
+{"id": "ALERT-0011", "type": "phishing", "severity": "medium", "source_ip": "203.0.172.69", "hostname": "srv-45", "description": "Multiple failed authentication attempts detected.", "mitre": "T1566"}
+{"id": "ALERT-0012", "type": "data_exfil", "severity": "medium", "source_ip": "203.0.42.119", "hostname": "srv-25", "description": "Encoded PowerShell execution observed.", "mitre": "T1566"}
+{"id": "ALERT-0013", "type": "phishing", "severity": "low", "source_ip": "203.0.59.211", "hostname": "srv-03", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0014", "type": "phishing", "severity": "low", "source_ip": "203.0.55.234", "hostname": "srv-37", "description": "Encoded PowerShell execution observed.", "mitre": "T1566"}
+{"id": "ALERT-0015", "type": "lateral_movement", "severity": "critical", "source_ip": "203.0.227.235", "hostname": "srv-42", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0016", "type": "phishing", "severity": "medium", "source_ip": "203.0.64.191", "hostname": "srv-36", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0017", "type": "data_exfil", "severity": "critical", "source_ip": "203.0.93.57", "hostname": "srv-09", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0018", "type": "brute_force", "severity": "low", "source_ip": "203.0.40.161", "hostname": "srv-11", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0019", "type": "lateral_movement", "severity": "critical", "source_ip": "203.0.153.120", "hostname": "srv-34", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0020", "type": "brute_force", "severity": "high", "source_ip": "203.0.197.165", "hostname": "srv-22", "description": "Multiple failed authentication attempts detected.", "mitre": "T1021"}
+{"id": "ALERT-0021", "type": "lateral_movement", "severity": "medium", "source_ip": "203.0.117.1", "hostname": "srv-47", "description": "Encoded PowerShell execution observed.", "mitre": "T1566"}
+{"id": "ALERT-0022", "type": "data_exfil", "severity": "low", "source_ip": "203.0.223.161", "hostname": "srv-20", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1566"}
+{"id": "ALERT-0023", "type": "phishing", "severity": "medium", "source_ip": "203.0.139.245", "hostname": "srv-50", "description": "Multiple failed authentication attempts detected.", "mitre": "T1021"}
+{"id": "ALERT-0024", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.29.238", "hostname": "srv-24", "description": "Encoded PowerShell execution observed.", "mitre": "T1566"}
+{"id": "ALERT-0025", "type": "brute_force", "severity": "medium", "source_ip": "203.0.225.146", "hostname": "srv-06", "description": "Multiple failed authentication attempts detected.", "mitre": "T1048"}
+{"id": "ALERT-0026", "type": "brute_force", "severity": "medium", "source_ip": "203.0.33.169", "hostname": "srv-31", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1021"}
+{"id": "ALERT-0027", "type": "data_exfil", "severity": "critical", "source_ip": "203.0.247.55", "hostname": "srv-35", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1021"}
+{"id": "ALERT-0028", "type": "lateral_movement", "severity": "high", "source_ip": "203.0.113.231", "hostname": "srv-34", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0029", "type": "malware", "severity": "medium", "source_ip": "203.0.17.87", "hostname": "srv-02", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1566"}
+{"id": "ALERT-0030", "type": "brute_force", "severity": "low", "source_ip": "203.0.182.162", "hostname": "srv-04", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1110"}
+{"id": "ALERT-0031", "type": "brute_force", "severity": "high", "source_ip": "203.0.19.132", "hostname": "srv-16", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0032", "type": "malware", "severity": "medium", "source_ip": "203.0.186.240", "hostname": "srv-37", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0033", "type": "lateral_movement", "severity": "critical", "source_ip": "203.0.49.25", "hostname": "srv-07", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0034", "type": "lateral_movement", "severity": "critical", "source_ip": "203.0.120.222", "hostname": "srv-47", "description": "Multiple failed authentication attempts detected.", "mitre": "T1110"}
+{"id": "ALERT-0035", "type": "brute_force", "severity": "critical", "source_ip": "203.0.187.87", "hostname": "srv-07", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1566"}
+{"id": "ALERT-0036", "type": "malware", "severity": "critical", "source_ip": "203.0.36.109", "hostname": "srv-12", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0037", "type": "malware", "severity": "low", "source_ip": "203.0.114.207", "hostname": "srv-36", "description": "Multiple failed authentication attempts detected.", "mitre": "T1110"}
+{"id": "ALERT-0038", "type": "data_exfil", "severity": "low", "source_ip": "203.0.249.24", "hostname": "srv-49", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1566"}
+{"id": "ALERT-0039", "type": "lateral_movement", "severity": "critical", "source_ip": "203.0.124.55", "hostname": "srv-26", "description": "Multiple failed authentication attempts detected.", "mitre": "T1566"}
+{"id": "ALERT-0040", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.253.100", "hostname": "srv-17", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0041", "type": "lateral_movement", "severity": "critical", "source_ip": "203.0.40.49", "hostname": "srv-19", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1110"}
+{"id": "ALERT-0042", "type": "data_exfil", "severity": "low", "source_ip": "203.0.192.81", "hostname": "srv-04", "description": "Multiple failed authentication attempts detected.", "mitre": "T1048"}
+{"id": "ALERT-0043", "type": "data_exfil", "severity": "medium", "source_ip": "203.0.15.246", "hostname": "srv-33", "description": "Multiple failed authentication attempts detected.", "mitre": "T1566"}
+{"id": "ALERT-0044", "type": "brute_force", "severity": "low", "source_ip": "203.0.173.221", "hostname": "srv-16", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0045", "type": "data_exfil", "severity": "medium", "source_ip": "203.0.149.153", "hostname": "srv-03", "description": "Multiple failed authentication attempts detected.", "mitre": "T1048"}
+{"id": "ALERT-0046", "type": "data_exfil", "severity": "high", "source_ip": "203.0.240.67", "hostname": "srv-14", "description": "Encoded PowerShell execution observed.", "mitre": "T1566"}
+{"id": "ALERT-0047", "type": "phishing", "severity": "critical", "source_ip": "203.0.34.172", "hostname": "srv-42", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0048", "type": "phishing", "severity": "low", "source_ip": "203.0.3.118", "hostname": "srv-40", "description": "Multiple failed authentication attempts detected.", "mitre": "T1110"}
+{"id": "ALERT-0049", "type": "data_exfil", "severity": "medium", "source_ip": "203.0.130.68", "hostname": "srv-09", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0050", "type": "malware", "severity": "high", "source_ip": "203.0.73.41", "hostname": "srv-29", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0051", "type": "data_exfil", "severity": "high", "source_ip": "203.0.239.170", "hostname": "srv-07", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1021"}
+{"id": "ALERT-0052", "type": "brute_force", "severity": "low", "source_ip": "203.0.191.142", "hostname": "srv-10", "description": "Encoded PowerShell execution observed.", "mitre": "T1021"}
+{"id": "ALERT-0053", "type": "data_exfil", "severity": "medium", "source_ip": "203.0.184.88", "hostname": "srv-14", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0054", "type": "phishing", "severity": "low", "source_ip": "203.0.24.163", "hostname": "srv-28", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0055", "type": "brute_force", "severity": "high", "source_ip": "203.0.198.34", "hostname": "srv-41", "description": "Encoded PowerShell execution observed.", "mitre": "T1566"}
+{"id": "ALERT-0056", "type": "lateral_movement", "severity": "critical", "source_ip": "203.0.144.3", "hostname": "srv-08", "description": "Multiple failed authentication attempts detected.", "mitre": "T1566"}
+{"id": "ALERT-0057", "type": "data_exfil", "severity": "low", "source_ip": "203.0.214.95", "hostname": "srv-38", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0058", "type": "malware", "severity": "low", "source_ip": "203.0.79.94", "hostname": "srv-03", "description": "Encoded PowerShell execution observed.", "mitre": "T1566"}
+{"id": "ALERT-0059", "type": "malware", "severity": "low", "source_ip": "203.0.91.200", "hostname": "srv-36", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0060", "type": "malware", "severity": "medium", "source_ip": "203.0.250.205", "hostname": "srv-12", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0061", "type": "malware", "severity": "high", "source_ip": "203.0.201.239", "hostname": "srv-27", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1021"}
+{"id": "ALERT-0062", "type": "malware", "severity": "low", "source_ip": "203.0.98.224", "hostname": "srv-03", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0063", "type": "malware", "severity": "critical", "source_ip": "203.0.90.79", "hostname": "srv-15", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1110"}
+{"id": "ALERT-0064", "type": "malware", "severity": "critical", "source_ip": "203.0.85.72", "hostname": "srv-05", "description": "Encoded PowerShell execution observed.", "mitre": "T1021"}
+{"id": "ALERT-0065", "type": "data_exfil", "severity": "critical", "source_ip": "203.0.174.252", "hostname": "srv-35", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0066", "type": "brute_force", "severity": "high", "source_ip": "203.0.46.149", "hostname": "srv-17", "description": "Multiple failed authentication attempts detected.", "mitre": "T1110"}
+{"id": "ALERT-0067", "type": "data_exfil", "severity": "critical", "source_ip": "203.0.89.187", "hostname": "srv-21", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0068", "type": "lateral_movement", "severity": "medium", "source_ip": "203.0.66.12", "hostname": "srv-46", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0069", "type": "data_exfil", "severity": "medium", "source_ip": "203.0.94.111", "hostname": "srv-05", "description": "Encoded PowerShell execution observed.", "mitre": "T1021"}
+{"id": "ALERT-0070", "type": "brute_force", "severity": "high", "source_ip": "203.0.130.80", "hostname": "srv-43", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0071", "type": "lateral_movement", "severity": "high", "source_ip": "203.0.142.33", "hostname": "srv-13", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0072", "type": "malware", "severity": "high", "source_ip": "203.0.104.141", "hostname": "srv-01", "description": "Encoded PowerShell execution observed.", "mitre": "T1021"}
+{"id": "ALERT-0073", "type": "malware", "severity": "critical", "source_ip": "203.0.202.149", "hostname": "srv-39", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0074", "type": "lateral_movement", "severity": "critical", "source_ip": "203.0.173.55", "hostname": "srv-33", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0075", "type": "brute_force", "severity": "high", "source_ip": "203.0.132.170", "hostname": "srv-41", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0076", "type": "malware", "severity": "high", "source_ip": "203.0.58.207", "hostname": "srv-13", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1110"}
+{"id": "ALERT-0077", "type": "brute_force", "severity": "medium", "source_ip": "203.0.252.122", "hostname": "srv-40", "description": "Multiple failed authentication attempts detected.", "mitre": "T1048"}
+{"id": "ALERT-0078", "type": "lateral_movement", "severity": "medium", "source_ip": "203.0.184.179", "hostname": "srv-25", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0079", "type": "malware", "severity": "medium", "source_ip": "203.0.168.177", "hostname": "srv-01", "description": "Multiple failed authentication attempts detected.", "mitre": "T1048"}
+{"id": "ALERT-0080", "type": "malware", "severity": "medium", "source_ip": "203.0.206.246", "hostname": "srv-45", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0081", "type": "data_exfil", "severity": "medium", "source_ip": "203.0.235.218", "hostname": "srv-08", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0082", "type": "lateral_movement", "severity": "high", "source_ip": "203.0.244.194", "hostname": "srv-29", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0083", "type": "malware", "severity": "critical", "source_ip": "203.0.116.67", "hostname": "srv-49", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1021"}
+{"id": "ALERT-0084", "type": "data_exfil", "severity": "critical", "source_ip": "203.0.161.62", "hostname": "srv-18", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0085", "type": "phishing", "severity": "medium", "source_ip": "203.0.70.86", "hostname": "srv-21", "description": "Multiple failed authentication attempts detected.", "mitre": "T1566"}
+{"id": "ALERT-0086", "type": "malware", "severity": "medium", "source_ip": "203.0.99.178", "hostname": "srv-10", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1110"}
+{"id": "ALERT-0087", "type": "lateral_movement", "severity": "critical", "source_ip": "203.0.85.139", "hostname": "srv-30", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0088", "type": "malware", "severity": "critical", "source_ip": "203.0.100.232", "hostname": "srv-50", "description": "Multiple failed authentication attempts detected.", "mitre": "T1048"}
+{"id": "ALERT-0089", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.242.91", "hostname": "srv-20", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0090", "type": "data_exfil", "severity": "medium", "source_ip": "203.0.125.57", "hostname": "srv-18", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0091", "type": "brute_force", "severity": "critical", "source_ip": "203.0.87.172", "hostname": "srv-44", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0092", "type": "lateral_movement", "severity": "medium", "source_ip": "203.0.252.160", "hostname": "srv-35", "description": "Multiple failed authentication attempts detected.", "mitre": "T1048"}
+{"id": "ALERT-0093", "type": "data_exfil", "severity": "low", "source_ip": "203.0.22.165", "hostname": "srv-28", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0094", "type": "malware", "severity": "low", "source_ip": "203.0.67.98", "hostname": "srv-21", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0095", "type": "phishing", "severity": "high", "source_ip": "203.0.195.226", "hostname": "srv-25", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0096", "type": "phishing", "severity": "low", "source_ip": "203.0.121.5", "hostname": "srv-48", "description": "Multiple failed authentication attempts detected.", "mitre": "T1021"}
+{"id": "ALERT-0097", "type": "malware", "severity": "low", "source_ip": "203.0.200.246", "hostname": "srv-42", "description": "Multiple failed authentication attempts detected.", "mitre": "T1110"}
+{"id": "ALERT-0098", "type": "malware", "severity": "medium", "source_ip": "203.0.215.6", "hostname": "srv-40", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1566"}
+{"id": "ALERT-0099", "type": "malware", "severity": "critical", "source_ip": "203.0.172.30", "hostname": "srv-37", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0100", "type": "phishing", "severity": "high", "source_ip": "203.0.43.156", "hostname": "srv-39", "description": "Multiple failed authentication attempts detected.", "mitre": "T1566"}
+{"id": "ALERT-0101", "type": "phishing", "severity": "low", "source_ip": "203.0.149.7", "hostname": "srv-20", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0102", "type": "malware", "severity": "low", "source_ip": "203.0.152.177", "hostname": "srv-41", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1110"}
+{"id": "ALERT-0103", "type": "phishing", "severity": "low", "source_ip": "203.0.204.252", "hostname": "srv-37", "description": "Multiple failed authentication attempts detected.", "mitre": "T1021"}
+{"id": "ALERT-0104", "type": "data_exfil", "severity": "critical", "source_ip": "203.0.170.95", "hostname": "srv-05", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0105", "type": "lateral_movement", "severity": "critical", "source_ip": "203.0.28.111", "hostname": "srv-24", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0106", "type": "lateral_movement", "severity": "medium", "source_ip": "203.0.188.134", "hostname": "srv-42", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0107", "type": "lateral_movement", "severity": "critical", "source_ip": "203.0.212.188", "hostname": "srv-38", "description": "Encoded PowerShell execution observed.", "mitre": "T1021"}
+{"id": "ALERT-0108", "type": "malware", "severity": "low", "source_ip": "203.0.72.226", "hostname": "srv-29", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0109", "type": "data_exfil", "severity": "critical", "source_ip": "203.0.87.8", "hostname": "srv-32", "description": "Encoded PowerShell execution observed.", "mitre": "T1566"}
+{"id": "ALERT-0110", "type": "lateral_movement", "severity": "medium", "source_ip": "203.0.91.205", "hostname": "srv-17", "description": "Encoded PowerShell execution observed.", "mitre": "T1021"}
+{"id": "ALERT-0111", "type": "data_exfil", "severity": "high", "source_ip": "203.0.143.3", "hostname": "srv-34", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1110"}
+{"id": "ALERT-0112", "type": "malware", "severity": "critical", "source_ip": "203.0.126.143", "hostname": "srv-49", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0113", "type": "lateral_movement", "severity": "critical", "source_ip": "203.0.203.5", "hostname": "srv-06", "description": "Encoded PowerShell execution observed.", "mitre": "T1566"}
+{"id": "ALERT-0114", "type": "lateral_movement", "severity": "medium", "source_ip": "203.0.79.170", "hostname": "srv-38", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0115", "type": "data_exfil", "severity": "high", "source_ip": "203.0.109.191", "hostname": "srv-36", "description": "Encoded PowerShell execution observed.", "mitre": "T1021"}
+{"id": "ALERT-0116", "type": "lateral_movement", "severity": "high", "source_ip": "203.0.79.65", "hostname": "srv-15", "description": "Multiple failed authentication attempts detected.", "mitre": "T1566"}
+{"id": "ALERT-0117", "type": "phishing", "severity": "low", "source_ip": "203.0.191.138", "hostname": "srv-49", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1566"}
+{"id": "ALERT-0118", "type": "malware", "severity": "critical", "source_ip": "203.0.71.186", "hostname": "srv-38", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0119", "type": "malware", "severity": "high", "source_ip": "203.0.59.93", "hostname": "srv-12", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0120", "type": "data_exfil", "severity": "medium", "source_ip": "203.0.71.12", "hostname": "srv-04", "description": "Encoded PowerShell execution observed.", "mitre": "T1566"}
+{"id": "ALERT-0121", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.224.4", "hostname": "srv-37", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0122", "type": "lateral_movement", "severity": "critical", "source_ip": "203.0.88.48", "hostname": "srv-04", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0123", "type": "brute_force", "severity": "low", "source_ip": "203.0.103.126", "hostname": "srv-05", "description": "Multiple failed authentication attempts detected.", "mitre": "T1566"}
+{"id": "ALERT-0124", "type": "malware", "severity": "high", "source_ip": "203.0.22.64", "hostname": "srv-08", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0125", "type": "data_exfil", "severity": "critical", "source_ip": "203.0.116.233", "hostname": "srv-29", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0126", "type": "phishing", "severity": "low", "source_ip": "203.0.157.246", "hostname": "srv-48", "description": "Multiple failed authentication attempts detected.", "mitre": "T1566"}
+{"id": "ALERT-0127", "type": "malware", "severity": "high", "source_ip": "203.0.170.21", "hostname": "srv-11", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1566"}
+{"id": "ALERT-0128", "type": "data_exfil", "severity": "low", "source_ip": "203.0.41.1", "hostname": "srv-27", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0129", "type": "phishing", "severity": "low", "source_ip": "203.0.60.74", "hostname": "srv-46", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0130", "type": "brute_force", "severity": "medium", "source_ip": "203.0.237.68", "hostname": "srv-41", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0131", "type": "brute_force", "severity": "medium", "source_ip": "203.0.166.39", "hostname": "srv-18", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1110"}
+{"id": "ALERT-0132", "type": "brute_force", "severity": "medium", "source_ip": "203.0.203.79", "hostname": "srv-39", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0133", "type": "brute_force", "severity": "critical", "source_ip": "203.0.177.78", "hostname": "srv-45", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0134", "type": "data_exfil", "severity": "critical", "source_ip": "203.0.113.21", "hostname": "srv-39", "description": "Multiple failed authentication attempts detected.", "mitre": "T1048"}
+{"id": "ALERT-0135", "type": "phishing", "severity": "high", "source_ip": "203.0.7.24", "hostname": "srv-15", "description": "Multiple failed authentication attempts detected.", "mitre": "T1021"}
+{"id": "ALERT-0136", "type": "data_exfil", "severity": "low", "source_ip": "203.0.196.194", "hostname": "srv-12", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0137", "type": "phishing", "severity": "medium", "source_ip": "203.0.150.112", "hostname": "srv-41", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0138", "type": "lateral_movement", "severity": "high", "source_ip": "203.0.105.86", "hostname": "srv-21", "description": "Multiple failed authentication attempts detected.", "mitre": "T1566"}
+{"id": "ALERT-0139", "type": "phishing", "severity": "critical", "source_ip": "203.0.178.127", "hostname": "srv-19", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0140", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.81.65", "hostname": "srv-21", "description": "Multiple failed authentication attempts detected.", "mitre": "T1048"}
+{"id": "ALERT-0141", "type": "data_exfil", "severity": "low", "source_ip": "203.0.169.223", "hostname": "srv-35", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0142", "type": "brute_force", "severity": "medium", "source_ip": "203.0.133.93", "hostname": "srv-40", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0143", "type": "brute_force", "severity": "medium", "source_ip": "203.0.69.141", "hostname": "srv-09", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0144", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.8.250", "hostname": "srv-41", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1566"}
+{"id": "ALERT-0145", "type": "phishing", "severity": "low", "source_ip": "203.0.142.105", "hostname": "srv-06", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1110"}
+{"id": "ALERT-0146", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.166.214", "hostname": "srv-10", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0147", "type": "data_exfil", "severity": "high", "source_ip": "203.0.107.214", "hostname": "srv-31", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0148", "type": "lateral_movement", "severity": "medium", "source_ip": "203.0.99.49", "hostname": "srv-39", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1110"}
+{"id": "ALERT-0149", "type": "phishing", "severity": "critical", "source_ip": "203.0.88.240", "hostname": "srv-33", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0150", "type": "phishing", "severity": "high", "source_ip": "203.0.215.151", "hostname": "srv-38", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0151", "type": "lateral_movement", "severity": "critical", "source_ip": "203.0.89.86", "hostname": "srv-36", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0152", "type": "phishing", "severity": "medium", "source_ip": "203.0.252.179", "hostname": "srv-16", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0153", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.82.191", "hostname": "srv-31", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0154", "type": "malware", "severity": "critical", "source_ip": "203.0.247.10", "hostname": "srv-09", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0155", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.135.234", "hostname": "srv-30", "description": "Multiple failed authentication attempts detected.", "mitre": "T1566"}
+{"id": "ALERT-0156", "type": "lateral_movement", "severity": "medium", "source_ip": "203.0.20.121", "hostname": "srv-17", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0157", "type": "brute_force", "severity": "high", "source_ip": "203.0.219.173", "hostname": "srv-35", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0158", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.159.18", "hostname": "srv-16", "description": "Encoded PowerShell execution observed.", "mitre": "T1566"}
+{"id": "ALERT-0159", "type": "brute_force", "severity": "critical", "source_ip": "203.0.251.26", "hostname": "srv-49", "description": "Multiple failed authentication attempts detected.", "mitre": "T1048"}
+{"id": "ALERT-0160", "type": "malware", "severity": "high", "source_ip": "203.0.232.8", "hostname": "srv-03", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0161", "type": "phishing", "severity": "high", "source_ip": "203.0.96.111", "hostname": "srv-10", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0162", "type": "data_exfil", "severity": "medium", "source_ip": "203.0.44.45", "hostname": "srv-06", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0163", "type": "lateral_movement", "severity": "medium", "source_ip": "203.0.60.119", "hostname": "srv-41", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0164", "type": "phishing", "severity": "low", "source_ip": "203.0.231.206", "hostname": "srv-30", "description": "Encoded PowerShell execution observed.", "mitre": "T1566"}
+{"id": "ALERT-0165", "type": "brute_force", "severity": "critical", "source_ip": "203.0.242.89", "hostname": "srv-38", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0166", "type": "phishing", "severity": "critical", "source_ip": "203.0.217.78", "hostname": "srv-13", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0167", "type": "brute_force", "severity": "medium", "source_ip": "203.0.98.147", "hostname": "srv-23", "description": "Encoded PowerShell execution observed.", "mitre": "T1021"}
+{"id": "ALERT-0168", "type": "brute_force", "severity": "critical", "source_ip": "203.0.71.3", "hostname": "srv-37", "description": "Multiple failed authentication attempts detected.", "mitre": "T1048"}
+{"id": "ALERT-0169", "type": "phishing", "severity": "medium", "source_ip": "203.0.156.206", "hostname": "srv-23", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1566"}
+{"id": "ALERT-0170", "type": "data_exfil", "severity": "high", "source_ip": "203.0.174.194", "hostname": "srv-47", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1110"}
+{"id": "ALERT-0171", "type": "brute_force", "severity": "high", "source_ip": "203.0.202.113", "hostname": "srv-03", "description": "Encoded PowerShell execution observed.", "mitre": "T1566"}
+{"id": "ALERT-0172", "type": "brute_force", "severity": "high", "source_ip": "203.0.84.192", "hostname": "srv-27", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1566"}
+{"id": "ALERT-0173", "type": "malware", "severity": "high", "source_ip": "203.0.136.129", "hostname": "srv-18", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1021"}
+{"id": "ALERT-0174", "type": "lateral_movement", "severity": "high", "source_ip": "203.0.192.223", "hostname": "srv-22", "description": "Multiple failed authentication attempts detected.", "mitre": "T1048"}
+{"id": "ALERT-0175", "type": "brute_force", "severity": "medium", "source_ip": "203.0.194.248", "hostname": "srv-15", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0176", "type": "brute_force", "severity": "critical", "source_ip": "203.0.4.68", "hostname": "srv-35", "description": "Multiple failed authentication attempts detected.", "mitre": "T1048"}
+{"id": "ALERT-0177", "type": "phishing", "severity": "high", "source_ip": "203.0.150.98", "hostname": "srv-41", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0178", "type": "malware", "severity": "critical", "source_ip": "203.0.7.159", "hostname": "srv-36", "description": "Encoded PowerShell execution observed.", "mitre": "T1566"}
+{"id": "ALERT-0179", "type": "brute_force", "severity": "critical", "source_ip": "203.0.233.180", "hostname": "srv-20", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0180", "type": "malware", "severity": "low", "source_ip": "203.0.243.10", "hostname": "srv-20", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0181", "type": "brute_force", "severity": "medium", "source_ip": "203.0.228.138", "hostname": "srv-09", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0182", "type": "phishing", "severity": "critical", "source_ip": "203.0.151.191", "hostname": "srv-47", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0183", "type": "brute_force", "severity": "critical", "source_ip": "203.0.158.105", "hostname": "srv-18", "description": "Multiple failed authentication attempts detected.", "mitre": "T1021"}
+{"id": "ALERT-0184", "type": "malware", "severity": "critical", "source_ip": "203.0.114.244", "hostname": "srv-16", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0185", "type": "phishing", "severity": "high", "source_ip": "203.0.16.102", "hostname": "srv-18", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1110"}
+{"id": "ALERT-0186", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.170.55", "hostname": "srv-42", "description": "Multiple failed authentication attempts detected.", "mitre": "T1110"}
+{"id": "ALERT-0187", "type": "phishing", "severity": "medium", "source_ip": "203.0.254.33", "hostname": "srv-37", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1110"}
+{"id": "ALERT-0188", "type": "data_exfil", "severity": "medium", "source_ip": "203.0.151.56", "hostname": "srv-15", "description": "Encoded PowerShell execution observed.", "mitre": "T1566"}
+{"id": "ALERT-0189", "type": "data_exfil", "severity": "low", "source_ip": "203.0.71.220", "hostname": "srv-10", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1021"}
+{"id": "ALERT-0190", "type": "malware", "severity": "low", "source_ip": "203.0.170.222", "hostname": "srv-02", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1110"}
+{"id": "ALERT-0191", "type": "phishing", "severity": "medium", "source_ip": "203.0.151.83", "hostname": "srv-02", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1021"}
+{"id": "ALERT-0192", "type": "brute_force", "severity": "medium", "source_ip": "203.0.190.108", "hostname": "srv-34", "description": "Multiple failed authentication attempts detected.", "mitre": "T1110"}
+{"id": "ALERT-0193", "type": "lateral_movement", "severity": "critical", "source_ip": "203.0.200.93", "hostname": "srv-33", "description": "Multiple failed authentication attempts detected.", "mitre": "T1048"}
+{"id": "ALERT-0194", "type": "data_exfil", "severity": "medium", "source_ip": "203.0.243.158", "hostname": "srv-03", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0195", "type": "brute_force", "severity": "low", "source_ip": "203.0.123.217", "hostname": "srv-26", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0196", "type": "lateral_movement", "severity": "critical", "source_ip": "203.0.19.231", "hostname": "srv-06", "description": "Encoded PowerShell execution observed.", "mitre": "T1566"}
+{"id": "ALERT-0197", "type": "brute_force", "severity": "medium", "source_ip": "203.0.71.160", "hostname": "srv-41", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0198", "type": "data_exfil", "severity": "high", "source_ip": "203.0.117.130", "hostname": "srv-39", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0199", "type": "brute_force", "severity": "medium", "source_ip": "203.0.111.116", "hostname": "srv-15", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0200", "type": "lateral_movement", "severity": "critical", "source_ip": "203.0.107.187", "hostname": "srv-07", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0201", "type": "phishing", "severity": "high", "source_ip": "203.0.96.245", "hostname": "srv-10", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0202", "type": "brute_force", "severity": "low", "source_ip": "203.0.24.111", "hostname": "srv-07", "description": "Encoded PowerShell execution observed.", "mitre": "T1566"}
+{"id": "ALERT-0203", "type": "data_exfil", "severity": "low", "source_ip": "203.0.151.245", "hostname": "srv-36", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0204", "type": "lateral_movement", "severity": "high", "source_ip": "203.0.224.171", "hostname": "srv-49", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0205", "type": "phishing", "severity": "high", "source_ip": "203.0.91.27", "hostname": "srv-37", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1566"}
+{"id": "ALERT-0206", "type": "lateral_movement", "severity": "medium", "source_ip": "203.0.217.28", "hostname": "srv-23", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0207", "type": "phishing", "severity": "medium", "source_ip": "203.0.207.110", "hostname": "srv-36", "description": "Multiple failed authentication attempts detected.", "mitre": "T1021"}
+{"id": "ALERT-0208", "type": "brute_force", "severity": "medium", "source_ip": "203.0.70.180", "hostname": "srv-49", "description": "Encoded PowerShell execution observed.", "mitre": "T1021"}
+{"id": "ALERT-0209", "type": "phishing", "severity": "low", "source_ip": "203.0.47.223", "hostname": "srv-10", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0210", "type": "malware", "severity": "low", "source_ip": "203.0.24.192", "hostname": "srv-34", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0211", "type": "lateral_movement", "severity": "critical", "source_ip": "203.0.88.41", "hostname": "srv-24", "description": "Encoded PowerShell execution observed.", "mitre": "T1021"}
+{"id": "ALERT-0212", "type": "data_exfil", "severity": "low", "source_ip": "203.0.227.14", "hostname": "srv-10", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1110"}
+{"id": "ALERT-0213", "type": "brute_force", "severity": "high", "source_ip": "203.0.114.170", "hostname": "srv-28", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0214", "type": "lateral_movement", "severity": "high", "source_ip": "203.0.56.194", "hostname": "srv-33", "description": "Multiple failed authentication attempts detected.", "mitre": "T1021"}
+{"id": "ALERT-0215", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.73.174", "hostname": "srv-44", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0216", "type": "brute_force", "severity": "medium", "source_ip": "203.0.102.253", "hostname": "srv-39", "description": "Multiple failed authentication attempts detected.", "mitre": "T1110"}
+{"id": "ALERT-0217", "type": "malware", "severity": "high", "source_ip": "203.0.243.55", "hostname": "srv-50", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1021"}
+{"id": "ALERT-0218", "type": "phishing", "severity": "high", "source_ip": "203.0.31.2", "hostname": "srv-32", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0219", "type": "malware", "severity": "critical", "source_ip": "203.0.137.181", "hostname": "srv-15", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0220", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.112.5", "hostname": "srv-30", "description": "Multiple failed authentication attempts detected.", "mitre": "T1021"}
+{"id": "ALERT-0221", "type": "data_exfil", "severity": "critical", "source_ip": "203.0.147.104", "hostname": "srv-46", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0222", "type": "brute_force", "severity": "critical", "source_ip": "203.0.6.248", "hostname": "srv-21", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0223", "type": "phishing", "severity": "low", "source_ip": "203.0.112.217", "hostname": "srv-07", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0224", "type": "data_exfil", "severity": "critical", "source_ip": "203.0.135.21", "hostname": "srv-26", "description": "Encoded PowerShell execution observed.", "mitre": "T1021"}
+{"id": "ALERT-0225", "type": "malware", "severity": "high", "source_ip": "203.0.200.44", "hostname": "srv-05", "description": "Multiple failed authentication attempts detected.", "mitre": "T1566"}
+{"id": "ALERT-0226", "type": "phishing", "severity": "high", "source_ip": "203.0.187.246", "hostname": "srv-42", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1566"}
+{"id": "ALERT-0227", "type": "brute_force", "severity": "medium", "source_ip": "203.0.66.51", "hostname": "srv-12", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1110"}
+{"id": "ALERT-0228", "type": "malware", "severity": "critical", "source_ip": "203.0.119.194", "hostname": "srv-37", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0229", "type": "phishing", "severity": "medium", "source_ip": "203.0.113.18", "hostname": "srv-31", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0230", "type": "phishing", "severity": "low", "source_ip": "203.0.91.130", "hostname": "srv-05", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0231", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.15.95", "hostname": "srv-19", "description": "Multiple failed authentication attempts detected.", "mitre": "T1110"}
+{"id": "ALERT-0232", "type": "data_exfil", "severity": "critical", "source_ip": "203.0.119.149", "hostname": "srv-36", "description": "Multiple failed authentication attempts detected.", "mitre": "T1048"}
+{"id": "ALERT-0233", "type": "data_exfil", "severity": "medium", "source_ip": "203.0.83.155", "hostname": "srv-31", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1110"}
+{"id": "ALERT-0234", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.208.231", "hostname": "srv-22", "description": "Multiple failed authentication attempts detected.", "mitre": "T1566"}
+{"id": "ALERT-0235", "type": "brute_force", "severity": "medium", "source_ip": "203.0.182.113", "hostname": "srv-29", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1021"}
+{"id": "ALERT-0236", "type": "phishing", "severity": "high", "source_ip": "203.0.100.105", "hostname": "srv-50", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0237", "type": "phishing", "severity": "low", "source_ip": "203.0.85.25", "hostname": "srv-36", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0238", "type": "phishing", "severity": "medium", "source_ip": "203.0.86.21", "hostname": "srv-38", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1021"}
+{"id": "ALERT-0239", "type": "phishing", "severity": "critical", "source_ip": "203.0.34.153", "hostname": "srv-46", "description": "Multiple failed authentication attempts detected.", "mitre": "T1021"}
+{"id": "ALERT-0240", "type": "data_exfil", "severity": "critical", "source_ip": "203.0.165.203", "hostname": "srv-22", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1110"}
+{"id": "ALERT-0241", "type": "lateral_movement", "severity": "high", "source_ip": "203.0.5.93", "hostname": "srv-20", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1566"}
+{"id": "ALERT-0242", "type": "phishing", "severity": "critical", "source_ip": "203.0.50.58", "hostname": "srv-09", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1110"}
+{"id": "ALERT-0243", "type": "phishing", "severity": "low", "source_ip": "203.0.130.198", "hostname": "srv-35", "description": "Multiple failed authentication attempts detected.", "mitre": "T1021"}
+{"id": "ALERT-0244", "type": "data_exfil", "severity": "medium", "source_ip": "203.0.153.97", "hostname": "srv-10", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1566"}
+{"id": "ALERT-0245", "type": "data_exfil", "severity": "medium", "source_ip": "203.0.185.113", "hostname": "srv-03", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0246", "type": "malware", "severity": "critical", "source_ip": "203.0.157.73", "hostname": "srv-49", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0247", "type": "data_exfil", "severity": "medium", "source_ip": "203.0.80.248", "hostname": "srv-31", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1021"}
+{"id": "ALERT-0248", "type": "data_exfil", "severity": "critical", "source_ip": "203.0.119.197", "hostname": "srv-19", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0249", "type": "malware", "severity": "medium", "source_ip": "203.0.206.155", "hostname": "srv-09", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0250", "type": "lateral_movement", "severity": "high", "source_ip": "203.0.142.240", "hostname": "srv-07", "description": "Multiple failed authentication attempts detected.", "mitre": "T1021"}
+{"id": "ALERT-0251", "type": "brute_force", "severity": "medium", "source_ip": "203.0.70.116", "hostname": "srv-33", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0252", "type": "brute_force", "severity": "medium", "source_ip": "203.0.210.116", "hostname": "srv-23", "description": "Multiple failed authentication attempts detected.", "mitre": "T1048"}
+{"id": "ALERT-0253", "type": "brute_force", "severity": "critical", "source_ip": "203.0.129.96", "hostname": "srv-16", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0254", "type": "phishing", "severity": "medium", "source_ip": "203.0.8.82", "hostname": "srv-07", "description": "Encoded PowerShell execution observed.", "mitre": "T1566"}
+{"id": "ALERT-0255", "type": "malware", "severity": "low", "source_ip": "203.0.74.235", "hostname": "srv-31", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0256", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.232.21", "hostname": "srv-02", "description": "Encoded PowerShell execution observed.", "mitre": "T1566"}
+{"id": "ALERT-0257", "type": "malware", "severity": "critical", "source_ip": "203.0.29.199", "hostname": "srv-19", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1021"}
+{"id": "ALERT-0258", "type": "brute_force", "severity": "low", "source_ip": "203.0.62.108", "hostname": "srv-41", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0259", "type": "brute_force", "severity": "critical", "source_ip": "203.0.153.138", "hostname": "srv-02", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1566"}
+{"id": "ALERT-0260", "type": "phishing", "severity": "critical", "source_ip": "203.0.1.158", "hostname": "srv-23", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0261", "type": "malware", "severity": "low", "source_ip": "203.0.135.250", "hostname": "srv-24", "description": "Multiple failed authentication attempts detected.", "mitre": "T1110"}
+{"id": "ALERT-0262", "type": "lateral_movement", "severity": "critical", "source_ip": "203.0.12.163", "hostname": "srv-25", "description": "Encoded PowerShell execution observed.", "mitre": "T1021"}
+{"id": "ALERT-0263", "type": "brute_force", "severity": "high", "source_ip": "203.0.202.18", "hostname": "srv-23", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1110"}
+{"id": "ALERT-0264", "type": "data_exfil", "severity": "high", "source_ip": "203.0.35.12", "hostname": "srv-23", "description": "Encoded PowerShell execution observed.", "mitre": "T1566"}
+{"id": "ALERT-0265", "type": "lateral_movement", "severity": "critical", "source_ip": "203.0.162.47", "hostname": "srv-09", "description": "Multiple failed authentication attempts detected.", "mitre": "T1048"}
+{"id": "ALERT-0266", "type": "brute_force", "severity": "high", "source_ip": "203.0.52.12", "hostname": "srv-13", "description": "Multiple failed authentication attempts detected.", "mitre": "T1021"}
+{"id": "ALERT-0267", "type": "phishing", "severity": "critical", "source_ip": "203.0.254.209", "hostname": "srv-35", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0268", "type": "brute_force", "severity": "medium", "source_ip": "203.0.74.92", "hostname": "srv-50", "description": "Multiple failed authentication attempts detected.", "mitre": "T1021"}
+{"id": "ALERT-0269", "type": "phishing", "severity": "low", "source_ip": "203.0.205.95", "hostname": "srv-28", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0270", "type": "lateral_movement", "severity": "high", "source_ip": "203.0.250.48", "hostname": "srv-32", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0271", "type": "data_exfil", "severity": "high", "source_ip": "203.0.206.22", "hostname": "srv-47", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0272", "type": "lateral_movement", "severity": "medium", "source_ip": "203.0.140.76", "hostname": "srv-21", "description": "Multiple failed authentication attempts detected.", "mitre": "T1110"}
+{"id": "ALERT-0273", "type": "phishing", "severity": "high", "source_ip": "203.0.79.115", "hostname": "srv-39", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0274", "type": "lateral_movement", "severity": "high", "source_ip": "203.0.115.11", "hostname": "srv-47", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0275", "type": "phishing", "severity": "low", "source_ip": "203.0.20.172", "hostname": "srv-41", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0276", "type": "data_exfil", "severity": "medium", "source_ip": "203.0.244.8", "hostname": "srv-10", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0277", "type": "malware", "severity": "low", "source_ip": "203.0.61.200", "hostname": "srv-42", "description": "Encoded PowerShell execution observed.", "mitre": "T1021"}
+{"id": "ALERT-0278", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.155.40", "hostname": "srv-44", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0279", "type": "phishing", "severity": "critical", "source_ip": "203.0.196.20", "hostname": "srv-37", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1021"}
+{"id": "ALERT-0280", "type": "lateral_movement", "severity": "high", "source_ip": "203.0.167.72", "hostname": "srv-16", "description": "Multiple failed authentication attempts detected.", "mitre": "T1110"}
+{"id": "ALERT-0281", "type": "malware", "severity": "critical", "source_ip": "203.0.133.100", "hostname": "srv-36", "description": "Multiple failed authentication attempts detected.", "mitre": "T1021"}
+{"id": "ALERT-0282", "type": "phishing", "severity": "critical", "source_ip": "203.0.55.157", "hostname": "srv-19", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0283", "type": "brute_force", "severity": "medium", "source_ip": "203.0.219.19", "hostname": "srv-29", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0284", "type": "brute_force", "severity": "high", "source_ip": "203.0.171.89", "hostname": "srv-46", "description": "Multiple failed authentication attempts detected.", "mitre": "T1021"}
+{"id": "ALERT-0285", "type": "phishing", "severity": "medium", "source_ip": "203.0.183.182", "hostname": "srv-45", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1021"}
+{"id": "ALERT-0286", "type": "data_exfil", "severity": "medium", "source_ip": "203.0.32.253", "hostname": "srv-13", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1566"}
+{"id": "ALERT-0287", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.93.142", "hostname": "srv-37", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0288", "type": "data_exfil", "severity": "medium", "source_ip": "203.0.157.227", "hostname": "srv-06", "description": "Multiple failed authentication attempts detected.", "mitre": "T1021"}
+{"id": "ALERT-0289", "type": "lateral_movement", "severity": "critical", "source_ip": "203.0.135.106", "hostname": "srv-50", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0290", "type": "malware", "severity": "high", "source_ip": "203.0.165.19", "hostname": "srv-29", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0291", "type": "malware", "severity": "medium", "source_ip": "203.0.197.248", "hostname": "srv-09", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0292", "type": "brute_force", "severity": "medium", "source_ip": "203.0.78.43", "hostname": "srv-11", "description": "Encoded PowerShell execution observed.", "mitre": "T1566"}
+{"id": "ALERT-0293", "type": "phishing", "severity": "high", "source_ip": "203.0.217.21", "hostname": "srv-17", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1021"}
+{"id": "ALERT-0294", "type": "malware", "severity": "high", "source_ip": "203.0.158.137", "hostname": "srv-06", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1566"}
+{"id": "ALERT-0295", "type": "malware", "severity": "high", "source_ip": "203.0.216.237", "hostname": "srv-37", "description": "Multiple failed authentication attempts detected.", "mitre": "T1110"}
+{"id": "ALERT-0296", "type": "brute_force", "severity": "low", "source_ip": "203.0.243.165", "hostname": "srv-50", "description": "Encoded PowerShell execution observed.", "mitre": "T1566"}
+{"id": "ALERT-0297", "type": "data_exfil", "severity": "critical", "source_ip": "203.0.159.164", "hostname": "srv-02", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0298", "type": "phishing", "severity": "critical", "source_ip": "203.0.63.207", "hostname": "srv-44", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0299", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.177.16", "hostname": "srv-11", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0300", "type": "lateral_movement", "severity": "critical", "source_ip": "203.0.53.88", "hostname": "srv-39", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1021"}
+{"id": "ALERT-0301", "type": "phishing", "severity": "high", "source_ip": "203.0.250.103", "hostname": "srv-09", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0302", "type": "phishing", "severity": "medium", "source_ip": "203.0.120.32", "hostname": "srv-18", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0303", "type": "malware", "severity": "low", "source_ip": "203.0.13.75", "hostname": "srv-25", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0304", "type": "malware", "severity": "high", "source_ip": "203.0.240.148", "hostname": "srv-47", "description": "Encoded PowerShell execution observed.", "mitre": "T1566"}
+{"id": "ALERT-0305", "type": "malware", "severity": "critical", "source_ip": "203.0.255.132", "hostname": "srv-30", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0306", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.24.242", "hostname": "srv-26", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0307", "type": "malware", "severity": "high", "source_ip": "203.0.13.13", "hostname": "srv-19", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0308", "type": "phishing", "severity": "low", "source_ip": "203.0.217.28", "hostname": "srv-28", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1021"}
+{"id": "ALERT-0309", "type": "phishing", "severity": "critical", "source_ip": "203.0.94.12", "hostname": "srv-26", "description": "Multiple failed authentication attempts detected.", "mitre": "T1566"}
+{"id": "ALERT-0310", "type": "phishing", "severity": "high", "source_ip": "203.0.19.99", "hostname": "srv-33", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0311", "type": "data_exfil", "severity": "low", "source_ip": "203.0.33.250", "hostname": "srv-07", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0312", "type": "phishing", "severity": "high", "source_ip": "203.0.194.37", "hostname": "srv-13", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0313", "type": "brute_force", "severity": "low", "source_ip": "203.0.36.183", "hostname": "srv-22", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0314", "type": "malware", "severity": "medium", "source_ip": "203.0.84.239", "hostname": "srv-40", "description": "Encoded PowerShell execution observed.", "mitre": "T1566"}
+{"id": "ALERT-0315", "type": "lateral_movement", "severity": "high", "source_ip": "203.0.152.87", "hostname": "srv-33", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0316", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.95.85", "hostname": "srv-44", "description": "Multiple failed authentication attempts detected.", "mitre": "T1048"}
+{"id": "ALERT-0317", "type": "data_exfil", "severity": "high", "source_ip": "203.0.204.231", "hostname": "srv-47", "description": "Multiple failed authentication attempts detected.", "mitre": "T1048"}
+{"id": "ALERT-0318", "type": "phishing", "severity": "medium", "source_ip": "203.0.185.14", "hostname": "srv-38", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0319", "type": "data_exfil", "severity": "critical", "source_ip": "203.0.38.211", "hostname": "srv-44", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1110"}
+{"id": "ALERT-0320", "type": "data_exfil", "severity": "low", "source_ip": "203.0.49.5", "hostname": "srv-29", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0321", "type": "malware", "severity": "critical", "source_ip": "203.0.177.53", "hostname": "srv-27", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0322", "type": "malware", "severity": "medium", "source_ip": "203.0.144.84", "hostname": "srv-43", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0323", "type": "phishing", "severity": "medium", "source_ip": "203.0.118.234", "hostname": "srv-35", "description": "Encoded PowerShell execution observed.", "mitre": "T1021"}
+{"id": "ALERT-0324", "type": "phishing", "severity": "critical", "source_ip": "203.0.50.246", "hostname": "srv-16", "description": "Encoded PowerShell execution observed.", "mitre": "T1021"}
+{"id": "ALERT-0325", "type": "malware", "severity": "high", "source_ip": "203.0.198.74", "hostname": "srv-46", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0326", "type": "phishing", "severity": "critical", "source_ip": "203.0.90.144", "hostname": "srv-47", "description": "Encoded PowerShell execution observed.", "mitre": "T1021"}
+{"id": "ALERT-0327", "type": "brute_force", "severity": "critical", "source_ip": "203.0.230.251", "hostname": "srv-26", "description": "Encoded PowerShell execution observed.", "mitre": "T1566"}
+{"id": "ALERT-0328", "type": "phishing", "severity": "low", "source_ip": "203.0.74.245", "hostname": "srv-46", "description": "Multiple failed authentication attempts detected.", "mitre": "T1021"}
+{"id": "ALERT-0329", "type": "lateral_movement", "severity": "high", "source_ip": "203.0.192.123", "hostname": "srv-14", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1021"}
+{"id": "ALERT-0330", "type": "data_exfil", "severity": "high", "source_ip": "203.0.36.28", "hostname": "srv-40", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1566"}
+{"id": "ALERT-0331", "type": "brute_force", "severity": "medium", "source_ip": "203.0.164.60", "hostname": "srv-04", "description": "Multiple failed authentication attempts detected.", "mitre": "T1048"}
+{"id": "ALERT-0332", "type": "phishing", "severity": "critical", "source_ip": "203.0.26.175", "hostname": "srv-50", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1110"}
+{"id": "ALERT-0333", "type": "data_exfil", "severity": "medium", "source_ip": "203.0.105.168", "hostname": "srv-31", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0334", "type": "phishing", "severity": "high", "source_ip": "203.0.74.166", "hostname": "srv-04", "description": "Multiple failed authentication attempts detected.", "mitre": "T1566"}
+{"id": "ALERT-0335", "type": "data_exfil", "severity": "low", "source_ip": "203.0.234.236", "hostname": "srv-12", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0336", "type": "brute_force", "severity": "critical", "source_ip": "203.0.202.127", "hostname": "srv-12", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0337", "type": "brute_force", "severity": "high", "source_ip": "203.0.146.155", "hostname": "srv-07", "description": "Encoded PowerShell execution observed.", "mitre": "T1021"}
+{"id": "ALERT-0338", "type": "lateral_movement", "severity": "critical", "source_ip": "203.0.228.241", "hostname": "srv-09", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0339", "type": "malware", "severity": "low", "source_ip": "203.0.85.42", "hostname": "srv-47", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0340", "type": "malware", "severity": "low", "source_ip": "203.0.189.87", "hostname": "srv-19", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1566"}
+{"id": "ALERT-0341", "type": "data_exfil", "severity": "critical", "source_ip": "203.0.212.110", "hostname": "srv-33", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0342", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.48.252", "hostname": "srv-09", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0343", "type": "malware", "severity": "low", "source_ip": "203.0.67.99", "hostname": "srv-16", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0344", "type": "phishing", "severity": "high", "source_ip": "203.0.150.186", "hostname": "srv-37", "description": "Multiple failed authentication attempts detected.", "mitre": "T1021"}
+{"id": "ALERT-0345", "type": "phishing", "severity": "medium", "source_ip": "203.0.16.171", "hostname": "srv-08", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0346", "type": "malware", "severity": "critical", "source_ip": "203.0.176.129", "hostname": "srv-46", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0347", "type": "phishing", "severity": "high", "source_ip": "203.0.158.57", "hostname": "srv-15", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0348", "type": "malware", "severity": "critical", "source_ip": "203.0.192.254", "hostname": "srv-39", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0349", "type": "data_exfil", "severity": "critical", "source_ip": "203.0.194.138", "hostname": "srv-43", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1566"}
+{"id": "ALERT-0350", "type": "data_exfil", "severity": "low", "source_ip": "203.0.135.115", "hostname": "srv-34", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0351", "type": "data_exfil", "severity": "low", "source_ip": "203.0.16.213", "hostname": "srv-36", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1566"}
+{"id": "ALERT-0352", "type": "malware", "severity": "high", "source_ip": "203.0.219.134", "hostname": "srv-29", "description": "Multiple failed authentication attempts detected.", "mitre": "T1566"}
+{"id": "ALERT-0353", "type": "data_exfil", "severity": "critical", "source_ip": "203.0.24.231", "hostname": "srv-33", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0354", "type": "lateral_movement", "severity": "medium", "source_ip": "203.0.132.107", "hostname": "srv-30", "description": "Multiple failed authentication attempts detected.", "mitre": "T1048"}
+{"id": "ALERT-0355", "type": "phishing", "severity": "low", "source_ip": "203.0.102.66", "hostname": "srv-01", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1110"}
+{"id": "ALERT-0356", "type": "brute_force", "severity": "critical", "source_ip": "203.0.89.180", "hostname": "srv-05", "description": "Multiple failed authentication attempts detected.", "mitre": "T1110"}
+{"id": "ALERT-0357", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.74.105", "hostname": "srv-12", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0358", "type": "phishing", "severity": "critical", "source_ip": "203.0.115.223", "hostname": "srv-25", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0359", "type": "data_exfil", "severity": "medium", "source_ip": "203.0.168.221", "hostname": "srv-23", "description": "Multiple failed authentication attempts detected.", "mitre": "T1566"}
+{"id": "ALERT-0360", "type": "data_exfil", "severity": "critical", "source_ip": "203.0.136.33", "hostname": "srv-47", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1110"}
+{"id": "ALERT-0361", "type": "brute_force", "severity": "high", "source_ip": "203.0.119.173", "hostname": "srv-47", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0362", "type": "malware", "severity": "medium", "source_ip": "203.0.118.89", "hostname": "srv-10", "description": "Encoded PowerShell execution observed.", "mitre": "T1566"}
+{"id": "ALERT-0363", "type": "brute_force", "severity": "low", "source_ip": "203.0.208.170", "hostname": "srv-27", "description": "Multiple failed authentication attempts detected.", "mitre": "T1566"}
+{"id": "ALERT-0364", "type": "malware", "severity": "low", "source_ip": "203.0.26.153", "hostname": "srv-03", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0365", "type": "malware", "severity": "low", "source_ip": "203.0.103.113", "hostname": "srv-15", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1110"}
+{"id": "ALERT-0366", "type": "malware", "severity": "high", "source_ip": "203.0.60.209", "hostname": "srv-47", "description": "Encoded PowerShell execution observed.", "mitre": "T1021"}
+{"id": "ALERT-0367", "type": "malware", "severity": "high", "source_ip": "203.0.225.37", "hostname": "srv-43", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0368", "type": "phishing", "severity": "high", "source_ip": "203.0.16.143", "hostname": "srv-38", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0369", "type": "data_exfil", "severity": "critical", "source_ip": "203.0.13.249", "hostname": "srv-23", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0370", "type": "lateral_movement", "severity": "critical", "source_ip": "203.0.39.77", "hostname": "srv-25", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0371", "type": "malware", "severity": "medium", "source_ip": "203.0.77.220", "hostname": "srv-46", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0372", "type": "brute_force", "severity": "critical", "source_ip": "203.0.248.107", "hostname": "srv-36", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0373", "type": "malware", "severity": "high", "source_ip": "203.0.53.85", "hostname": "srv-42", "description": "Multiple failed authentication attempts detected.", "mitre": "T1048"}
+{"id": "ALERT-0374", "type": "phishing", "severity": "low", "source_ip": "203.0.138.186", "hostname": "srv-13", "description": "Multiple failed authentication attempts detected.", "mitre": "T1021"}
+{"id": "ALERT-0375", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.224.19", "hostname": "srv-13", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0376", "type": "malware", "severity": "high", "source_ip": "203.0.78.245", "hostname": "srv-01", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1566"}
+{"id": "ALERT-0377", "type": "brute_force", "severity": "critical", "source_ip": "203.0.235.63", "hostname": "srv-45", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0378", "type": "malware", "severity": "high", "source_ip": "203.0.199.73", "hostname": "srv-25", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0379", "type": "phishing", "severity": "high", "source_ip": "203.0.93.132", "hostname": "srv-32", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0380", "type": "lateral_movement", "severity": "high", "source_ip": "203.0.235.53", "hostname": "srv-24", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0381", "type": "brute_force", "severity": "medium", "source_ip": "203.0.190.38", "hostname": "srv-02", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0382", "type": "phishing", "severity": "medium", "source_ip": "203.0.51.85", "hostname": "srv-15", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0383", "type": "lateral_movement", "severity": "high", "source_ip": "203.0.66.196", "hostname": "srv-32", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0384", "type": "malware", "severity": "high", "source_ip": "203.0.44.36", "hostname": "srv-47", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0385", "type": "data_exfil", "severity": "low", "source_ip": "203.0.135.9", "hostname": "srv-05", "description": "Multiple failed authentication attempts detected.", "mitre": "T1110"}
+{"id": "ALERT-0386", "type": "lateral_movement", "severity": "medium", "source_ip": "203.0.216.162", "hostname": "srv-15", "description": "Multiple failed authentication attempts detected.", "mitre": "T1566"}
+{"id": "ALERT-0387", "type": "brute_force", "severity": "medium", "source_ip": "203.0.130.117", "hostname": "srv-24", "description": "Multiple failed authentication attempts detected.", "mitre": "T1048"}
+{"id": "ALERT-0388", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.2.137", "hostname": "srv-36", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0389", "type": "brute_force", "severity": "high", "source_ip": "203.0.138.251", "hostname": "srv-19", "description": "Multiple failed authentication attempts detected.", "mitre": "T1048"}
+{"id": "ALERT-0390", "type": "malware", "severity": "low", "source_ip": "203.0.236.25", "hostname": "srv-34", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1566"}
+{"id": "ALERT-0391", "type": "malware", "severity": "high", "source_ip": "203.0.209.91", "hostname": "srv-18", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0392", "type": "phishing", "severity": "critical", "source_ip": "203.0.118.145", "hostname": "srv-16", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1021"}
+{"id": "ALERT-0393", "type": "brute_force", "severity": "low", "source_ip": "203.0.24.104", "hostname": "srv-25", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0394", "type": "brute_force", "severity": "low", "source_ip": "203.0.180.44", "hostname": "srv-06", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0395", "type": "phishing", "severity": "low", "source_ip": "203.0.230.136", "hostname": "srv-03", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1566"}
+{"id": "ALERT-0396", "type": "data_exfil", "severity": "critical", "source_ip": "203.0.70.12", "hostname": "srv-05", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0397", "type": "malware", "severity": "high", "source_ip": "203.0.5.247", "hostname": "srv-14", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0398", "type": "brute_force", "severity": "high", "source_ip": "203.0.42.145", "hostname": "srv-16", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0399", "type": "lateral_movement", "severity": "medium", "source_ip": "203.0.203.254", "hostname": "srv-45", "description": "Multiple failed authentication attempts detected.", "mitre": "T1021"}
+{"id": "ALERT-0400", "type": "brute_force", "severity": "low", "source_ip": "203.0.112.60", "hostname": "srv-05", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0401", "type": "phishing", "severity": "low", "source_ip": "203.0.163.70", "hostname": "srv-29", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0402", "type": "phishing", "severity": "critical", "source_ip": "203.0.111.48", "hostname": "srv-44", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0403", "type": "data_exfil", "severity": "high", "source_ip": "203.0.205.64", "hostname": "srv-46", "description": "Multiple failed authentication attempts detected.", "mitre": "T1110"}
+{"id": "ALERT-0404", "type": "phishing", "severity": "medium", "source_ip": "203.0.98.183", "hostname": "srv-41", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0405", "type": "phishing", "severity": "high", "source_ip": "203.0.28.24", "hostname": "srv-01", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0406", "type": "phishing", "severity": "high", "source_ip": "203.0.27.34", "hostname": "srv-06", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0407", "type": "lateral_movement", "severity": "critical", "source_ip": "203.0.27.7", "hostname": "srv-06", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0408", "type": "data_exfil", "severity": "high", "source_ip": "203.0.222.99", "hostname": "srv-01", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0409", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.186.231", "hostname": "srv-36", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1566"}
+{"id": "ALERT-0410", "type": "lateral_movement", "severity": "medium", "source_ip": "203.0.36.69", "hostname": "srv-20", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0411", "type": "malware", "severity": "low", "source_ip": "203.0.43.112", "hostname": "srv-18", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0412", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.93.65", "hostname": "srv-16", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0413", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.35.78", "hostname": "srv-01", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0414", "type": "data_exfil", "severity": "critical", "source_ip": "203.0.206.221", "hostname": "srv-22", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0415", "type": "lateral_movement", "severity": "medium", "source_ip": "203.0.77.83", "hostname": "srv-39", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0416", "type": "phishing", "severity": "medium", "source_ip": "203.0.247.102", "hostname": "srv-21", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0417", "type": "data_exfil", "severity": "medium", "source_ip": "203.0.84.97", "hostname": "srv-18", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0418", "type": "brute_force", "severity": "medium", "source_ip": "203.0.152.140", "hostname": "srv-12", "description": "Multiple failed authentication attempts detected.", "mitre": "T1048"}
+{"id": "ALERT-0419", "type": "malware", "severity": "critical", "source_ip": "203.0.205.75", "hostname": "srv-45", "description": "Multiple failed authentication attempts detected.", "mitre": "T1048"}
+{"id": "ALERT-0420", "type": "lateral_movement", "severity": "medium", "source_ip": "203.0.163.78", "hostname": "srv-16", "description": "Encoded PowerShell execution observed.", "mitre": "T1566"}
+{"id": "ALERT-0421", "type": "lateral_movement", "severity": "critical", "source_ip": "203.0.19.115", "hostname": "srv-39", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0422", "type": "data_exfil", "severity": "critical", "source_ip": "203.0.140.10", "hostname": "srv-24", "description": "Multiple failed authentication attempts detected.", "mitre": "T1110"}
+{"id": "ALERT-0423", "type": "malware", "severity": "high", "source_ip": "203.0.43.166", "hostname": "srv-40", "description": "Multiple failed authentication attempts detected.", "mitre": "T1048"}
+{"id": "ALERT-0424", "type": "phishing", "severity": "critical", "source_ip": "203.0.28.3", "hostname": "srv-07", "description": "Encoded PowerShell execution observed.", "mitre": "T1566"}
+{"id": "ALERT-0425", "type": "data_exfil", "severity": "medium", "source_ip": "203.0.115.96", "hostname": "srv-26", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0426", "type": "phishing", "severity": "low", "source_ip": "203.0.124.27", "hostname": "srv-19", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0427", "type": "brute_force", "severity": "medium", "source_ip": "203.0.90.80", "hostname": "srv-22", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0428", "type": "data_exfil", "severity": "critical", "source_ip": "203.0.90.122", "hostname": "srv-07", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0429", "type": "phishing", "severity": "low", "source_ip": "203.0.77.12", "hostname": "srv-46", "description": "Multiple failed authentication attempts detected.", "mitre": "T1110"}
+{"id": "ALERT-0430", "type": "phishing", "severity": "low", "source_ip": "203.0.174.205", "hostname": "srv-11", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1566"}
+{"id": "ALERT-0431", "type": "data_exfil", "severity": "medium", "source_ip": "203.0.85.144", "hostname": "srv-28", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0432", "type": "lateral_movement", "severity": "medium", "source_ip": "203.0.48.164", "hostname": "srv-43", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0433", "type": "brute_force", "severity": "medium", "source_ip": "203.0.116.152", "hostname": "srv-28", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0434", "type": "malware", "severity": "medium", "source_ip": "203.0.72.193", "hostname": "srv-46", "description": "Multiple failed authentication attempts detected.", "mitre": "T1110"}
+{"id": "ALERT-0435", "type": "data_exfil", "severity": "medium", "source_ip": "203.0.94.84", "hostname": "srv-13", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0436", "type": "phishing", "severity": "critical", "source_ip": "203.0.136.248", "hostname": "srv-41", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0437", "type": "data_exfil", "severity": "critical", "source_ip": "203.0.151.30", "hostname": "srv-23", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0438", "type": "data_exfil", "severity": "medium", "source_ip": "203.0.209.173", "hostname": "srv-46", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0439", "type": "malware", "severity": "high", "source_ip": "203.0.31.62", "hostname": "srv-20", "description": "Multiple failed authentication attempts detected.", "mitre": "T1566"}
+{"id": "ALERT-0440", "type": "phishing", "severity": "medium", "source_ip": "203.0.131.100", "hostname": "srv-27", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0441", "type": "lateral_movement", "severity": "medium", "source_ip": "203.0.125.163", "hostname": "srv-35", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1566"}
+{"id": "ALERT-0442", "type": "lateral_movement", "severity": "high", "source_ip": "203.0.36.48", "hostname": "srv-21", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0443", "type": "phishing", "severity": "low", "source_ip": "203.0.125.35", "hostname": "srv-13", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0444", "type": "lateral_movement", "severity": "critical", "source_ip": "203.0.107.182", "hostname": "srv-29", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0445", "type": "brute_force", "severity": "low", "source_ip": "203.0.204.195", "hostname": "srv-15", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0446", "type": "phishing", "severity": "medium", "source_ip": "203.0.138.74", "hostname": "srv-11", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0447", "type": "data_exfil", "severity": "low", "source_ip": "203.0.147.30", "hostname": "srv-18", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0448", "type": "lateral_movement", "severity": "medium", "source_ip": "203.0.254.109", "hostname": "srv-07", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1021"}
+{"id": "ALERT-0449", "type": "brute_force", "severity": "critical", "source_ip": "203.0.68.90", "hostname": "srv-06", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0450", "type": "malware", "severity": "medium", "source_ip": "203.0.208.189", "hostname": "srv-38", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0451", "type": "malware", "severity": "medium", "source_ip": "203.0.201.53", "hostname": "srv-14", "description": "Multiple failed authentication attempts detected.", "mitre": "T1021"}
+{"id": "ALERT-0452", "type": "data_exfil", "severity": "high", "source_ip": "203.0.153.138", "hostname": "srv-11", "description": "Encoded PowerShell execution observed.", "mitre": "T1021"}
+{"id": "ALERT-0453", "type": "phishing", "severity": "high", "source_ip": "203.0.244.220", "hostname": "srv-33", "description": "Multiple failed authentication attempts detected.", "mitre": "T1566"}
+{"id": "ALERT-0454", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.255.71", "hostname": "srv-42", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1566"}
+{"id": "ALERT-0455", "type": "malware", "severity": "medium", "source_ip": "203.0.183.83", "hostname": "srv-16", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0456", "type": "malware", "severity": "high", "source_ip": "203.0.161.107", "hostname": "srv-25", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0457", "type": "brute_force", "severity": "critical", "source_ip": "203.0.132.192", "hostname": "srv-18", "description": "Encoded PowerShell execution observed.", "mitre": "T1048"}
+{"id": "ALERT-0458", "type": "lateral_movement", "severity": "high", "source_ip": "203.0.149.1", "hostname": "srv-50", "description": "Multiple failed authentication attempts detected.", "mitre": "T1048"}
+{"id": "ALERT-0459", "type": "phishing", "severity": "low", "source_ip": "203.0.204.137", "hostname": "srv-26", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0460", "type": "malware", "severity": "critical", "source_ip": "203.0.69.83", "hostname": "srv-19", "description": "Encoded PowerShell execution observed.", "mitre": "T1566"}
+{"id": "ALERT-0461", "type": "data_exfil", "severity": "critical", "source_ip": "203.0.202.88", "hostname": "srv-44", "description": "Multiple failed authentication attempts detected.", "mitre": "T1110"}
+{"id": "ALERT-0462", "type": "brute_force", "severity": "critical", "source_ip": "203.0.5.32", "hostname": "srv-11", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0463", "type": "brute_force", "severity": "critical", "source_ip": "203.0.52.177", "hostname": "srv-09", "description": "Encoded PowerShell execution observed.", "mitre": "T1566"}
+{"id": "ALERT-0464", "type": "phishing", "severity": "low", "source_ip": "203.0.168.93", "hostname": "srv-17", "description": "Multiple failed authentication attempts detected.", "mitre": "T1021"}
+{"id": "ALERT-0465", "type": "malware", "severity": "low", "source_ip": "203.0.102.161", "hostname": "srv-20", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0466", "type": "brute_force", "severity": "low", "source_ip": "203.0.1.55", "hostname": "srv-31", "description": "Multiple failed authentication attempts detected.", "mitre": "T1566"}
+{"id": "ALERT-0467", "type": "data_exfil", "severity": "medium", "source_ip": "203.0.133.175", "hostname": "srv-29", "description": "Multiple failed authentication attempts detected.", "mitre": "T1110"}
+{"id": "ALERT-0468", "type": "phishing", "severity": "low", "source_ip": "203.0.253.221", "hostname": "srv-28", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0469", "type": "brute_force", "severity": "medium", "source_ip": "203.0.99.23", "hostname": "srv-47", "description": "Multiple failed authentication attempts detected.", "mitre": "T1110"}
+{"id": "ALERT-0470", "type": "phishing", "severity": "high", "source_ip": "203.0.226.77", "hostname": "srv-09", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0471", "type": "malware", "severity": "low", "source_ip": "203.0.136.145", "hostname": "srv-01", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0472", "type": "phishing", "severity": "medium", "source_ip": "203.0.161.192", "hostname": "srv-10", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0473", "type": "malware", "severity": "low", "source_ip": "203.0.230.26", "hostname": "srv-09", "description": "Multiple failed authentication attempts detected.", "mitre": "T1048"}
+{"id": "ALERT-0474", "type": "phishing", "severity": "critical", "source_ip": "203.0.81.203", "hostname": "srv-09", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1021"}
+{"id": "ALERT-0475", "type": "brute_force", "severity": "medium", "source_ip": "203.0.142.154", "hostname": "srv-39", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0476", "type": "phishing", "severity": "medium", "source_ip": "203.0.133.156", "hostname": "srv-33", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0477", "type": "phishing", "severity": "low", "source_ip": "203.0.201.230", "hostname": "srv-16", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0478", "type": "brute_force", "severity": "medium", "source_ip": "203.0.128.164", "hostname": "srv-39", "description": "Multiple failed authentication attempts detected.", "mitre": "T1110"}
+{"id": "ALERT-0479", "type": "phishing", "severity": "high", "source_ip": "203.0.34.100", "hostname": "srv-37", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0480", "type": "data_exfil", "severity": "medium", "source_ip": "203.0.196.121", "hostname": "srv-50", "description": "Multiple failed authentication attempts detected.", "mitre": "T1110"}
+{"id": "ALERT-0481", "type": "data_exfil", "severity": "low", "source_ip": "203.0.4.68", "hostname": "srv-14", "description": "Multiple failed authentication attempts detected.", "mitre": "T1110"}
+{"id": "ALERT-0482", "type": "lateral_movement", "severity": "high", "source_ip": "203.0.161.183", "hostname": "srv-33", "description": "Possible data exfiltration over DNS.", "mitre": "T1048"}
+{"id": "ALERT-0483", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.164.138", "hostname": "srv-35", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1021"}
+{"id": "ALERT-0484", "type": "brute_force", "severity": "high", "source_ip": "203.0.21.131", "hostname": "srv-14", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1021"}
+{"id": "ALERT-0485", "type": "lateral_movement", "severity": "low", "source_ip": "203.0.80.179", "hostname": "srv-28", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1110"}
+{"id": "ALERT-0486", "type": "malware", "severity": "low", "source_ip": "203.0.237.112", "hostname": "srv-08", "description": "Possible data exfiltration over DNS.", "mitre": "T1110"}
+{"id": "ALERT-0487", "type": "phishing", "severity": "medium", "source_ip": "203.0.31.4", "hostname": "srv-46", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1110"}
+{"id": "ALERT-0488", "type": "malware", "severity": "critical", "source_ip": "203.0.244.89", "hostname": "srv-34", "description": "Encoded PowerShell execution observed.", "mitre": "T1566"}
+{"id": "ALERT-0489", "type": "phishing", "severity": "medium", "source_ip": "203.0.192.200", "hostname": "srv-18", "description": "Multiple failed authentication attempts detected.", "mitre": "T1110"}
+{"id": "ALERT-0490", "type": "phishing", "severity": "critical", "source_ip": "203.0.70.135", "hostname": "srv-05", "description": "Encoded PowerShell execution observed.", "mitre": "T1110"}
+{"id": "ALERT-0491", "type": "lateral_movement", "severity": "critical", "source_ip": "203.0.131.93", "hostname": "srv-04", "description": "Possible data exfiltration over DNS.", "mitre": "T1566"}
+{"id": "ALERT-0492", "type": "phishing", "severity": "medium", "source_ip": "203.0.66.198", "hostname": "srv-07", "description": "Multiple failed authentication attempts detected.", "mitre": "T1566"}
+{"id": "ALERT-0493", "type": "data_exfil", "severity": "low", "source_ip": "203.0.12.220", "hostname": "srv-01", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1110"}
+{"id": "ALERT-0494", "type": "lateral_movement", "severity": "high", "source_ip": "203.0.99.236", "hostname": "srv-10", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1110"}
+{"id": "ALERT-0495", "type": "data_exfil", "severity": "critical", "source_ip": "203.0.58.83", "hostname": "srv-16", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0496", "type": "phishing", "severity": "low", "source_ip": "203.0.147.96", "hostname": "srv-08", "description": "Multiple failed authentication attempts detected.", "mitre": "T1566"}
+{"id": "ALERT-0497", "type": "malware", "severity": "low", "source_ip": "203.0.245.103", "hostname": "srv-05", "description": "Possible data exfiltration over DNS.", "mitre": "T1021"}
+{"id": "ALERT-0498", "type": "phishing", "severity": "high", "source_ip": "203.0.23.142", "hostname": "srv-30", "description": "Multiple failed authentication attempts detected.", "mitre": "T1021"}
+{"id": "ALERT-0499", "type": "malware", "severity": "high", "source_ip": "203.0.145.201", "hostname": "srv-20", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1048"}
+{"id": "ALERT-0500", "type": "phishing", "severity": "critical", "source_ip": "203.0.198.199", "hostname": "srv-13", "description": "Suspicious outbound connection to rare destination.", "mitre": "T1566"}
