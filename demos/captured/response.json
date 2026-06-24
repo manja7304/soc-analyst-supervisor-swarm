@@ -1,0 +1,18 @@
+{
+  "answer": "Triage complete for ALERT-0042",
+  "trace": [
+    {
+      "agent": "TriageAgent",
+      "output": {
+        "id": "ALERT-0042",
+        "type": "data_exfil",
+        "severity": "low",
+        "source_ip": "203.0.192.81",
+        "hostname": "srv-04",
+        "description": "Multiple failed authentication attempts detected.",
+        "mitre": "T1048"
+      }
+    }
+  ],
+  "metadata": {}
+}

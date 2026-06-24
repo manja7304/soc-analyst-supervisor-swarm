@@ -174,9 +174,32 @@ Alert types: `brute_force`, `malware`, `phishing`, `lateral_movement`, `data_exf
 
 ## Video Demo
 
-[![Demo Video](https://img.shields.io/badge/Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=PLACEHOLDER)
+- **Walkthrough:** [`demos/WALKTHROUGH.md`](demos/WALKTHROUGH.md) — step-by-step demo with captured live output
+- **Captured JSON:** [`demos/captured/response.json`](demos/captured/response.json)
+- Record your 2-min Loom using `python scripts/run_demo.py` (works offline with `USE_MOCK_LLM=true`)
 
-> Record using [`demos/RECORDING_SCRIPT.md`](demos/RECORDING_SCRIPT.md).
+### Live Demo Output
+
+```json
+{
+  "answer": "Triage complete for ALERT-0042",
+  "trace_count": 1,
+  "trace_first": {
+    "agent": "TriageAgent",
+    "output": {
+      "id": "ALERT-0042",
+      "type": "data_exfil",
+      "severity": "low",
+      "source_ip": "203.0.192.81",
+      "hostname": "srv-04",
+      "description": "Multiple failed authentication attempts detected.",
+      "mitre": "T1048"
+    }
+  }
+}
+```
+
+> Full trace and request payloads in [`demos/captured/`](demos/captured/). See [`demos/RECORDING_SCRIPT.md`](demos/RECORDING_SCRIPT.md) for narration cues.
 
 ---
 
